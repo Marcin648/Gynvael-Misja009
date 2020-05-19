@@ -2,9 +2,9 @@
 CTF challenge http://gynvael.vexillium.org/ext/3e2998dccb887cfdffd86ec658bd42d44ea4e477_misja009.txt
 
 # Rozwiązanie
-## RTTY
+## ~~RTTY~~ FSK
 Pierwsze co zrobiłem po pobraniu pliku to otworzyłem go w Audacity.
-Mając doświadczenie z RTL-SDR odrazu rozpoznałem ten sygnał to RTTY o niestandardowych parametrach i strasznie wolne.
+Mając doświadczenie z RTL-SDR odrazu rozpoznałem ten sygnał to ~~RTTY~~ FSK o niestandardowych parametrach i strasznie wolne.
 
 
 ![](http://i.imgur.com/sIX2OIv.png)
